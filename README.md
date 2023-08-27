@@ -32,17 +32,13 @@ public DFA mergeDFA(DFA secondDFA, boolean isUnion)
 This method merges two DFAs using either an intersection or union, based on the value of `isUnion`. If `isUnion` is `true`, the DFAs are merged using union; otherwise, they are merged using intersection. The method returns a new DFA object.
 
 ## Usage
-To make use of the implemented functions and classes, follow these steps:
-1. Clone this repository to your local machine.
-2. Navigate to the project directory and open it in your preferred Java development environment.
-3. Implement the required methods as specified in the assignment.
-4. Utilize the methods according to your requirements.
+To run this code, import the java files to your IDE and run your code on any test case.
+
 
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues or have improvements to suggest, please feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 This README provides an overview of the project's purpose, classes, methods, and usage. Refer to the actual code files for detailed implementation.
