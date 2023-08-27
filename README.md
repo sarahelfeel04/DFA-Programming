@@ -2,17 +2,6 @@
 
 This repository contains a Java implementation of finite automata, focusing on exploring the concepts through programming. The project involves three classes: `Main`, `DFA`, and `Transition`, each with predefined attributes and constructors. The goal is to implement specific functions within the `Main` and `DFA` classes while maintaining the integrity of the provided classes.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Main Class](#main-class)
-  - [generateDFA Method](#generatedfa-method)
-- [DFA Class](#dfa-class)
-  - [isLanguageDFA Method](#islanguagedfa-method)
-  - [mergeDFA Method](#mergedfa-method)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 The objective of this assignment is to delve into finite automata implementation using Java. The project provides a foundation with the `Main`, `DFA`, and `Transition` classes, accompanied by their attributes and constructors. Your task is to implement specific methods within the `Main` and `DFA` classes, ensuring adherence to the provided method signatures and specifications.
 
