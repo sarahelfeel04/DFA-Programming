@@ -37,8 +37,3 @@ To run this code, import the java files to your IDE and run your code on any tes
 
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues or have improvements to suggest, please feel free to open an issue or submit a pull request.
-
-
-
----
-This README provides an overview of the project's purpose, classes, methods, and usage. Refer to the actual code files for detailed implementation.
